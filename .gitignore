@@ -1,0 +1,14 @@
+/Desktop/Data Science/projet_cds 17.33.34/env18
+/venv
+
+# Ignorer les fichiers temporaires et d’environnement
+.DS_Store
+env18/
+__pycache__/
+*.pyc
+
+# Ignorer les notebooks ou fichiers lourds si besoin
+*.ipynb_checkpoints
+
+# Ne pas ajouter le dépôt Git imbriqué
+first-ML-code/
